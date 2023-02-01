@@ -6,7 +6,7 @@
 
 
 #### Assignment:
-- A technology startup is interested in joining the online MOOC’s (Massive online open courses) marke. To do so in an efficient way, it bought datasets from potential competitors to analyze and draw conclusions from the collected data.
+- A technology startup is interested in joining the online MOOC’s (Massive online open courses) market. To do so in an efficient way, it bought datasets from potential competitors to analyze and draw conclusions from the collected data.
 
 #### Position:
 - **Data Analyst**
